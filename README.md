@@ -1,5 +1,8 @@
-
+![image](https://github.com/user-attachments/assets/ee964f3e-fb22-462c-9293-52bd47620725)
 # Email C2 (Command & Control)
+
+## Гайд по поднятию SMTP 
+https://concrete-swift-b54.notion.site/Email-C2-14686eb850e9806f80b4cd721a44b67f?pvs=4
 
 ## Описание
 Email C2 - это инструмент командного управления, использующий электронную почту в качестве скрытого канала связи. Проект разработан на языке Go 
