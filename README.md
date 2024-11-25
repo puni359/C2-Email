@@ -28,12 +28,12 @@ require (
 ## Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone [URL репозитория]
+git clone https://github.com/puni359/C2-Email
 ```
 
 2. Перейдите в директорию проекта:
 ```bash
-cd c2
+cd С2-Email
 ```
 
 3. Установите зависимости:
